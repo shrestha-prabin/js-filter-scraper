@@ -1,0 +1,1862 @@
+[
+  {
+    "brand_item": {
+      "name": "ACURA",
+      "value": "1"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "ALFA ROMEO",
+      "value": "2"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "ARO",
+      "value": "227"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "ASIA MOTORS",
+      "value": "3"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "ASTON MARTIN",
+      "value": "4"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "AUDI",
+      "value": "5"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BAW",
+      "value": "447"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BENTLEY",
+      "value": "6"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BMW",
+      "value": "7"
+    },
+    "class_item": {
+      "app_class_id": "29",
+      "app_class_name": "1 Series"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BMW",
+      "value": "7"
+    },
+    "class_item": {
+      "app_class_id": "1091",
+      "app_class_name": "2 Series"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BMW",
+      "value": "7"
+    },
+    "class_item": {
+      "app_class_id": "1088",
+      "app_class_name": "2 Series Active Tourer"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BMW",
+      "value": "7"
+    },
+    "class_item": {
+      "app_class_id": "1120",
+      "app_class_name": "2 Series Gran Tourer"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BMW",
+      "value": "7"
+    },
+    "class_item": {
+      "app_class_id": "31",
+      "app_class_name": "3 Series"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BMW",
+      "value": "7"
+    },
+    "class_item": {
+      "app_class_id": "88",
+      "app_class_name": "3 Series Gran Turismo"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BMW",
+      "value": "7"
+    },
+    "class_item": {
+      "app_class_id": "32",
+      "app_class_name": "4 Series"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BMW",
+      "value": "7"
+    },
+    "class_item": {
+      "app_class_id": "1009",
+      "app_class_name": "4 Series Gran Coupe"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BMW",
+      "value": "7"
+    },
+    "class_item": {
+      "app_class_id": "33",
+      "app_class_name": "5 Series"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BMW",
+      "value": "7"
+    },
+    "class_item": {
+      "app_class_id": "34",
+      "app_class_name": "5 Series Gran Turismo"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BMW",
+      "value": "7"
+    },
+    "class_item": {
+      "app_class_id": "35",
+      "app_class_name": "6 Series"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BMW",
+      "value": "7"
+    },
+    "class_item": {
+      "app_class_id": "36",
+      "app_class_name": "7 Series"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BMW",
+      "value": "7"
+    },
+    "class_item": {
+      "app_class_id": "37",
+      "app_class_name": "8 Series"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BMW",
+      "value": "7"
+    },
+    "class_item": {
+      "app_class_id": "43",
+      "app_class_name": "M Series"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BMW",
+      "value": "7"
+    },
+    "class_item": {
+      "app_class_id": "41",
+      "app_class_name": "X Series"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BMW",
+      "value": "7"
+    },
+    "class_item": {
+      "app_class_id": "42",
+      "app_class_name": "Z Series"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BMW",
+      "value": "7"
+    },
+    "class_item": {
+      "app_class_id": "1010",
+      "app_class_name": "i Serries"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BMW (Alpina)",
+      "value": "8"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BOBCAT",
+      "value": "99"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BOVA",
+      "value": "272"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BUICK (GM)",
+      "value": "10"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "BYD",
+      "value": "453"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "CADILLAC (GM)",
+      "value": "12"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "CATERPILLAR",
+      "value": "274"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "Chery",
+      "value": "448"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "CHEVROLET (GM)",
+      "value": "15"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "CHRYSLER",
+      "value": "16"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "CITROEN",
+      "value": "18"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "DAEWOO",
+      "value": "20"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "DAF",
+      "value": "271"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "DAIHATSU",
+      "value": "22"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "DAIHATSU (Piaggio)",
+      "value": "23"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "DATSUN",
+      "value": "285"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "DODGE",
+      "value": "24"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "FENDT(AGCO)",
+      "value": "460"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "FERRARI",
+      "value": "25"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "FIAT",
+      "value": "26"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "FORD",
+      "value": "27"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "FORD (Mercury)",
+      "value": "28"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "FORD (USA)",
+      "value": "29"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "FOTON",
+      "value": "444"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "GAZ",
+      "value": "232"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "GEELY",
+      "value": "431"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "GMC (TRUCK)",
+      "value": "30"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "Great Wall Motors",
+      "value": "449"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "HINO",
+      "value": "31"
+    },
+    "class_item": {
+      "app_class_id": "1111",
+      "app_class_name": "500 Series"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "HOLDEN",
+      "value": "93"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "HONDA",
+      "value": "32"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "HOWO",
+      "value": "278"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "HUMMER",
+      "value": "35"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "HYUNDAI",
+      "value": "36"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "INFINITI",
+      "value": "37"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "ISUZU",
+      "value": "38"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "IVECO",
+      "value": "39"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "JAGUAR",
+      "value": "40"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "JEEP",
+      "value": "42"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "JMC",
+      "value": "461"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "KAMAZ",
+      "value": "247"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "KIA",
+      "value": "43"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "KING  LONG BUS",
+      "value": "279"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "KOMATSU",
+      "value": "100"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "KUBOTA",
+      "value": "264"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "LADA",
+      "value": "44"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "LAMBORGHINI",
+      "value": "426"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "LANCIA",
+      "value": "45"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "LAND ROVER",
+      "value": "46"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "LEXUS",
+      "value": "48"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "LIFAN",
+      "value": "354"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "LIGIER AUTOMOBILES",
+      "value": "49"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "LINCOLN",
+      "value": "50"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "LONDON TAXI (Carbodies)",
+      "value": "51"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "LOTUS",
+      "value": "53"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "LUXGEN",
+      "value": "428"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MAHINDRA",
+      "value": "441"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MAN TRUCK",
+      "value": "249"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MARUTI SUZUKI",
+      "value": "442"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MASERATI",
+      "value": "54"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MAZDA",
+      "value": "55"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MAZDA JAPAN FORD",
+      "value": "56"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1018",
+      "app_class_name": "A-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1022",
+      "app_class_name": "Actros-Serie"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1122",
+      "app_class_name": "Antos-Serie (963)"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1012",
+      "app_class_name": "Atego-Serie"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1013",
+      "app_class_name": "Axor-Serie"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "2",
+      "app_class_name": "B-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "3",
+      "app_class_name": "C-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "4",
+      "app_class_name": "CL-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "20",
+      "app_class_name": "CLA-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "26",
+      "app_class_name": "CLC-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "5",
+      "app_class_name": "CLK-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "22",
+      "app_class_name": "CLS-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1003",
+      "app_class_name": "Citan - Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "6",
+      "app_class_name": "E-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1019",
+      "app_class_name": "E-Class (Coupe/Cabrio)"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "8",
+      "app_class_name": "G-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "23",
+      "app_class_name": "GL-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1089",
+      "app_class_name": "GLA-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1117",
+      "app_class_name": "GLC-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1116",
+      "app_class_name": "GLE-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "24",
+      "app_class_name": "GLK-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1123",
+      "app_class_name": "Kombi-Wagen"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1014",
+      "app_class_name": "LK/LN2-Truck Serie"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1004",
+      "app_class_name": "MB-Serie"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1020",
+      "app_class_name": "ML-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "25",
+      "app_class_name": "R-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "10",
+      "app_class_name": "S-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1016",
+      "app_class_name": "SK-Truck Serie"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "12",
+      "app_class_name": "SL-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "13",
+      "app_class_name": "SLK-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "28",
+      "app_class_name": "SLR-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1090",
+      "app_class_name": "SLS AMG-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1021",
+      "app_class_name": "Sprinter"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1118",
+      "app_class_name": "Sprinter Classic"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1002",
+      "app_class_name": "Sprinter II"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1121",
+      "app_class_name": "Sprinter III"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1015",
+      "app_class_name": "Tourismo-Serie Bus"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1005",
+      "app_class_name": "Transporter-Serie"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1017",
+      "app_class_name": "Unimog-Serie"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1007",
+      "app_class_name": "V-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1006",
+      "app_class_name": "Vario-Serie"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1056",
+      "app_class_name": "Viano-Serie"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1008",
+      "app_class_name": "Vito-Serie"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MERCEDES-BENZ",
+      "value": "58"
+    },
+    "class_item": {
+      "app_class_id": "1119",
+      "app_class_name": "X-Class"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MG (Morris Garages)",
+      "value": "237"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MICROCAR",
+      "value": "59"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MINI",
+      "value": "60"
+    },
+    "class_item": {
+      "app_class_id": "1104",
+      "app_class_name": "F55 Hatchback 5 door"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MINI",
+      "value": "60"
+    },
+    "class_item": {
+      "app_class_id": "1105",
+      "app_class_name": "F56 Hatchback 3 door"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MINI",
+      "value": "60"
+    },
+    "class_item": {
+      "app_class_id": "1106",
+      "app_class_name": "R50 (1) MINI One, MINI One D"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MINI",
+      "value": "60"
+    },
+    "class_item": {
+      "app_class_id": "1107",
+      "app_class_name": "R50 (2) Cooper"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MINI",
+      "value": "60"
+    },
+    "class_item": {
+      "app_class_id": "1095",
+      "app_class_name": "R52 Cabrio"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MINI",
+      "value": "60"
+    },
+    "class_item": {
+      "app_class_id": "1096",
+      "app_class_name": "R53 Coupe"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MINI",
+      "value": "60"
+    },
+    "class_item": {
+      "app_class_id": "1097",
+      "app_class_name": "R55 Clubman"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MINI",
+      "value": "60"
+    },
+    "class_item": {
+      "app_class_id": "1098",
+      "app_class_name": "R55 Clubman LCI"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MINI",
+      "value": "60"
+    },
+    "class_item": {
+      "app_class_id": "1099",
+      "app_class_name": "R56 Coupe"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MINI",
+      "value": "60"
+    },
+    "class_item": {
+      "app_class_id": "1100",
+      "app_class_name": "R56 Coupe LCI"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MINI",
+      "value": "60"
+    },
+    "class_item": {
+      "app_class_id": "1108",
+      "app_class_name": "R56 MINI E (Electric)"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MINI",
+      "value": "60"
+    },
+    "class_item": {
+      "app_class_id": "1101",
+      "app_class_name": "R57 Cabrio"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MINI",
+      "value": "60"
+    },
+    "class_item": {
+      "app_class_id": "1102",
+      "app_class_name": "R57 Cabrio LCI"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MINI",
+      "value": "60"
+    },
+    "class_item": {
+      "app_class_id": "1103",
+      "app_class_name": "R58 Coupe"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MINI",
+      "value": "60"
+    },
+    "class_item": {
+      "app_class_id": "1094",
+      "app_class_name": "R59 Roadster"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MINI",
+      "value": "60"
+    },
+    "class_item": {
+      "app_class_id": "1093",
+      "app_class_name": "R60 Countryman"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MINI",
+      "value": "60"
+    },
+    "class_item": {
+      "app_class_id": "1092",
+      "app_class_name": "R61 Paceman"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MITSUBISHI",
+      "value": "61"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "MITSUOKA",
+      "value": "429"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "NAZA",
+      "value": "440"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "NISSAN",
+      "value": "62"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "NISSAN DIESEL UD",
+      "value": "63"
+    },
+    "class_item": {
+      "app_class_id": "1114",
+      "app_class_name": "UD TRUCKSI"
+    }
+  },
+  {
+    "brand_item": {
+      "name": "OLDSMOBILE (GM)",
+      "value": "65"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "OPEL",
+      "value": "66"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "OPEL (Vauxhall)",
+      "value": "67"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "PERODUA",
+      "value": "68"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "PEUGEOT",
+      "value": "69"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "PEUGEOT(Mega/Aixav)",
+      "value": "70"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "PONTIAC (GM)",
+      "value": "72"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "PORSCHE",
+      "value": "73"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "PROTON",
+      "value": "74"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "RAVON",
+      "value": "446"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "RENAULT",
+      "value": "75"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "ROLLS-ROYCE",
+      "value": "76"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "ROVER",
+      "value": "77"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "SAAB",
+      "value": "79"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "SAIC",
+      "value": "455"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "SANTANA MOTOR",
+      "value": "80"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "SCANIA",
+      "value": "101"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "SEAT",
+      "value": "81"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "SKODA",
+      "value": "82"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "SMART",
+      "value": "83"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "SSANGYONG",
+      "value": "84"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "SUBARU",
+      "value": "85"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "SUZUKI",
+      "value": "86"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "TATA MOTORS",
+      "value": "87"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "TESLA",
+      "value": "443"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "TOYOTA",
+      "value": "88"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "UAZ",
+      "value": "241"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "VOLKSWAGEN",
+      "value": "91"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "VOLVO",
+      "value": "90"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "Yuchai",
+      "value": "451"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  },
+  {
+    "brand_item": {
+      "name": "ZASTAVA",
+      "value": "92"
+    },
+    "class_item": {
+      "app_class_id": "",
+      "app_class_name": ""
+    }
+  }
+]
