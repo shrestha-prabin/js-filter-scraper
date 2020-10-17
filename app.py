@@ -39,8 +39,8 @@ if __name__ == '__main__':
     product_details = ProductDetails()
     # product_details.scrape()
 
-    # export_excel()
+    export_excel()
 
     # export_compatibility_list()
     #
-    download_images()
+    # download_images()

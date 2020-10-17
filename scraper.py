@@ -36,6 +36,7 @@ class ProductList:
 
     def scrape(self):
         meta_list = load_json('meta_list.json')
+        print(len(meta_list))
         pool = Pool(50)
         pool.map(self.export, meta_list)
 
@@ -185,6 +186,7 @@ class ProductDetails:
 
         details = {
             'url': url,
+            'name': soup.find('h2', attrs={'id': 'title'}).text.strip(),
             'image_url': self.get_image_url(soup, url),
             'specifications': self.get_specifications(soup),
             'cross_reference': self.get_cross_reference(soup),
